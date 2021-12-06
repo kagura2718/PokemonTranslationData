@@ -1,4 +1,4 @@
-# PokemonTranslator
+# PokemonTranslationData
 
 ## Summary
 
