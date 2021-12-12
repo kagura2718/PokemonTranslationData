@@ -94,7 +94,8 @@ def buildDatabase(soup):
 def printDatabase(db):
     print(json.dumps(db))
 
-soup = readSourceHtml("pokemon.html")
+HTML = sys.argv[1]
+soup = readSourceHtml(HTML)
 db = buildDatabase(soup)
 printDatabase(db)
 

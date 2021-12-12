@@ -76,7 +76,8 @@ def buildDatabase(soup):
 def printDatabase(db):
     print(json.dumps(db))
 
-soup = readSourceHtml("moves.html")
+HTML = sys.argv[1]
+soup = readSourceHtml(HTML)
 db = buildDatabase(soup)
 printDatabase(db)
 

@@ -51,9 +51,10 @@ But following case should upgrade the major number.
 # TODO
 
 - glossary.json
-  https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:%E4%B8%80%E8%A6%A7
+https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:%E4%B8%80%E8%A6%A7
 
 - type.json
  improve i18n (currently just en, ja)
 
- 
+
+- weather.json

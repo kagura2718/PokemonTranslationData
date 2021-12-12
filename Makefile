@@ -5,6 +5,7 @@ PUBLISH_FILES = \
 	data/pokemon.json data/pokemon.pretty.json \
 	data/moves.json data/moves.pretty.json \
 	data/type.json \
+	data/weather.json \
 
 
 GENERATED_FILES = \
@@ -25,13 +26,13 @@ clean:
 	wget $(WIKI_MOVES_URL) -O $@
 
 data/pokemon.json: ./bin/pokemon.py .datasource/pokemon.html
-	./bin/pokemon.py 2>> run-error.log > $@
+	./bin/pokemon.py .datasource/pokemon.html 2>> run-error.log > $@
 
 data/pokemon.pretty.json: data/pokemon.json
 	json_pp < $< > $@
 
 data/moves.json: ./bin/moves.py .datasource/moves.html
-	./bin/moves.py 2>> run-error.log > $@
+	./bin/moves.py .datasource/moves.html 2>> run-error.log > $@
 
 data/moves.pretty.json: data/moves.json
 	json_pp < $< > $@
@@ -40,4 +41,7 @@ data/moves.pretty.json: data/moves.json
 data/type.pretty.json:
 
 data/type.json: data/type.pretty.json
+	json_pp -json_opt ascii < $< > $@
+
+data/weather.json: data/weather.pretty.json
 	json_pp -json_opt ascii < $< > $@
