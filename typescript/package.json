@@ -1,0 +1,31 @@
+{
+  "name": "@kagura2718/pokemon-translation-data-typings",
+  "version": "0.0.1",
+  "description": "Pokemon translation data typings for typiscript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kagura2718/PokemonTranslationData.git"
+  },
+  "keywords": [
+    "translation",
+    "game"
+  ],
+  "files": [
+    "index.ts",
+    "README.md",
+    "../LICENSE"
+  ],
+  "author": "kagura2718 <kagura2718@gmail.com> (https://kagura2718.github.io/)",
+  "license": "CC-BY-NC-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/kagura2718/PokemonTranslationData/issues"
+  },
+  "homepage": "https://github.com/kagura2718/PokemonTranslationData#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
