@@ -4,17 +4,17 @@
 
 This repository data come from wiki:
 
-https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7
+[ポケモンの外国語名一覧](https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7)
 
 ## License
 
 License under Creative Commons
 
-https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.txt
+[CC-BY-NC-SA-3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.txt)
 
 This License policy is under:
 
-https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3Wiki:%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3Wiki%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+[ポケモンWiki:ポケモンWikiについて](https://wiki.xn--rckteqa2e.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3Wiki:%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3Wiki%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
 ## Data
 
@@ -50,11 +50,14 @@ But following case should upgrade the major number.
 
 # TODO
 
-- glossary.json
-https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:%E4%B8%80%E8%A6%A7
+## glossary.json
 
-- type.json
- improve i18n (currently just en, ja)
+[カテゴリ:一覧](https://wiki.xn--rckteqa2e.com/wiki/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:%E4%B8%80%E8%A6%A7)
 
+## type.json
 
-- weather.json
+improve i18n (currently just en, ja)
+
+## weather.json
+
+improve i18n entry
