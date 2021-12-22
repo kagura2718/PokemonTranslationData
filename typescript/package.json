@@ -1,6 +1,6 @@
 {
   "name": "@kagura2718/pokemon-translation-data-typings",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Pokemon translation data typings for typiscript",
   "main": "index.js",
   "scripts": {

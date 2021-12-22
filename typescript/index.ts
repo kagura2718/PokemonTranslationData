@@ -29,6 +29,11 @@ export interface BasicEntry {
 }
 
 /**
+ * Simple dictionary.
+ */
+export type BasicDictionary = I18NDictionary<BasicEntry>;
+
+/**
  * Pokemon name dictionary.
  */
 export type PokemonDictionary = I18NDictionary<PokemonEntry>;
