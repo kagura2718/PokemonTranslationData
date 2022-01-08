@@ -61,3 +61,17 @@ improve i18n (currently just en, ja)
 ## weather.json
 
 improve i18n entry
+
+## item.json
+
+[アイテムの外国語名一覧](https://wiki.xn--rckteqa2e.com/wiki/%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7)
+
+
+## character.json
+
+[せいかくの外国語名一覧](https://wiki.xn--rckteqa2e.com/wiki/%E3%81%9B%E3%81%84%E3%81%8B%E3%81%8F%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7)
+
+
+## ability.json
+
+[とくせいの外国語名一覧](https://wiki.xn--rckteqa2e.com/wiki/%E3%81%A8%E3%81%8F%E3%81%9B%E3%81%84%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7)
