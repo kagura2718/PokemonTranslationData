@@ -10701,7 +10701,7 @@
             "fr" : "Shifours",
             "ja" : "ウーラオス",
             "kr" : "우라오스",
-            "zh_ch" : "武道熊師",
+            "zh_ch" : "武道熊师",
             "zh_tw" : "武道熊師"
          },
          "number" : 892
@@ -10777,8 +10777,92 @@
             "zh_tw" : "蕾冠王"
          },
          "number" : 898
+      },
+      {
+         "i18n" : {
+            "de" : "Damythir",
+            "en" : "Wyrdeer",
+            "fr" : "Cerbyllin",
+            "ja" : "アヤシシ",
+            "kr" : "신비록",
+            "zh_ch" : "诡角鹿",
+            "zh_tw" : "詭角鹿"
+         },
+         "number" : 899
+      },
+      {
+         "i18n" : {
+            "de" : "Axantor",
+            "en" : "Kleavor",
+            "fr" : "Hachécateur",
+            "ja" : "バサギリ",
+            "kr" : "사마자르",
+            "zh_ch" : "劈斧螳螂",
+            "zh_tw" : "劈斧螳螂"
+         },
+         "number" : 900
+      },
+      {
+         "i18n" : {
+            "de" : "Ursaluna",
+            "en" : "Ursaluna",
+            "fr" : "Ursaking",
+            "ja" : "ガチグマ",
+            "kr" : "다투곰",
+            "zh_ch" : "月月熊",
+            "zh_tw" : "月月熊"
+         },
+         "number" : 901
+      },
+      {
+         "i18n" : {
+            "de" : "Salmagnis",
+            "en" : "Basculegion",
+            "fr" : "Paragruel",
+            "ja" : "イダイトウ",
+            "kr" : "대쓰여너",
+            "zh_ch" : "幽尾玄鱼",
+            "zh_tw" : "幽尾玄魚"
+         },
+         "number" : 902
+      },
+      {
+         "i18n" : {
+            "de" : "Snieboss",
+            "en" : "Sneasler",
+            "fr" : "Farfurex",
+            "ja" : "オオニューラ",
+            "kr" : "포푸니크",
+            "zh_ch" : "大狃拉",
+            "zh_tw" : "大狃拉"
+         },
+         "number" : 903
+      },
+      {
+         "i18n" : {
+            "de" : "Myriador",
+            "en" : "Overqwil",
+            "fr" : "Qwilpik",
+            "ja" : "ハリーマン",
+            "kr" : "장침바루",
+            "zh_ch" : "万针鱼",
+            "zh_tw" : "萬針魚"
+         },
+         "number" : 904
+      },
+      {
+         "i18n" : {
+            "de" : "Cupidos",
+            "en" : "Enamorus",
+            "fr" : "Amovénus",
+            "ja" : "ラブトロス",
+            "kr" : "러브로스",
+            "zh_ch" : "眷恋云",
+            "zh_tw" : "眷戀雲"
+         },
+         "number" : 905
       }
    ],
-   "generatedAt" : "2021-11-19T06:43:39.407379",
+   "generatedAt" : "2022-08-27T11:29:32.059069",
    "version" : "0.0.2"
 }

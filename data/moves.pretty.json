@@ -8929,7 +8929,7 @@
             "ja" : "てっていこうせん",
             "kr" : "Raggio d'Acciaio",
             "zh_ch" : "Metaláser",
-            "zh_tw" : "철저광선"
+            "zh_tw" : "철제광선"
          }
       },
       {
@@ -9250,8 +9250,272 @@
             "zh_ch" : "Cautivapor",
             "zh_tw" : "원더스팀"
          }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Dire Claw",
+            "fr" : "",
+            "ja" : "フェイタルクロー",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Psyshield Bash",
+            "fr" : "",
+            "ja" : "バリアーラッシュ",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Power Shift",
+            "fr" : "",
+            "ja" : "パワーシフト",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Stone Axe",
+            "fr" : "",
+            "ja" : "がんせきアックス",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Springtide Storm",
+            "fr" : "",
+            "ja" : "はるのあらし",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Mystical Power",
+            "fr" : "",
+            "ja" : "しんぴのちから",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Raging Fury",
+            "fr" : "",
+            "ja" : "だいふんげき",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Wave Crash",
+            "fr" : "",
+            "ja" : "ウェーブタックル",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Chloroblast",
+            "fr" : "",
+            "ja" : "クロロブラスト",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Mountain Gale",
+            "fr" : "",
+            "ja" : "ひょうざんおろし",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Victory Dance",
+            "fr" : "",
+            "ja" : "しょうりのまい",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Headlong Rush",
+            "fr" : "",
+            "ja" : "ぶちかまし",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Barb Barrage",
+            "fr" : "",
+            "ja" : "どくばりセンボン",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Esper Wing",
+            "fr" : "",
+            "ja" : "オーラウイング",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Bitter Malice",
+            "fr" : "",
+            "ja" : "うらみつらみ",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Shelter",
+            "fr" : "",
+            "ja" : "たてこもる",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Triple Arrows",
+            "fr" : "",
+            "ja" : "3ぼんのや",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Infernal Parade",
+            "fr" : "",
+            "ja" : "ひゃっきやこう",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Ceaseless Edge",
+            "fr" : "",
+            "ja" : "ひけん・ちえなみ",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Bleakwind Storm",
+            "fr" : "",
+            "ja" : "こがらしあらし",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Wildbolt Storm",
+            "fr" : "",
+            "ja" : "かみなりあらし",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Sandsear Storm",
+            "fr" : "",
+            "ja" : "ねっさのあらし",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Lunar Blessing",
+            "fr" : "",
+            "ja" : "みかづきのいのり",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
+      },
+      {
+         "i18n" : {
+            "de" : "",
+            "en" : "Take Heart",
+            "fr" : "",
+            "ja" : "ブレイブチャージ",
+            "kr" : "",
+            "zh_ch" : "",
+            "zh_tw" : ""
+         }
       }
    ],
-   "generatedAt" : "2021-11-19T06:47:35.138538",
+   "generatedAt" : "2022-08-27T11:29:34.107807",
    "version" : "0.0.0"
 }
